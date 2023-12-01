@@ -6,7 +6,7 @@
     <meta name="Description" content="this is a cat-photo-project">
     <meta name="author" content="Abdul-Samad">
     <title>CatPhotoApp</title>
-    <link rel="stylesheet" href="C:/Users/HP/Desktop/styles.css">
+    <link rel="stylesheet" href="C:\Users\HP\Desktop\styles.css">
   </head>
   <body>
     <main>
