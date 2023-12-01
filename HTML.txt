@@ -2,7 +2,10 @@
 
 <html lang="en">
   <head>
-    
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width'="device-width, initial-scale=1.o">
+    <meta name="Description" content="this is a cat-photo-project">
+    <meta name="author" content="Abdul-Samad">
     <title>CatPhotoApp</title>
   </head>
   <body>
